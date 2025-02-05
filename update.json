@@ -1,20 +1,20 @@
 {
-  "version": "3.5",
-  "notification": "Fix dùng bông tai.",
+  "version": "1.0",
+  "notification": "NO UPDATE.",
   "update": [
     {
       "name": "GAME",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm/refs/heads/main/Assembly-CSharp.dll",
+      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_24h/refs/heads/main/Assembly-CSharp.dll",
       "path": "CSMM_NRO_GAME_Data\\Managed\\"
     },
     {
       "name": "QLTK",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm/refs/heads/main/QLTK_CSMM.exe",
+      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_24h/refs/heads/main/QLTK_CSMM.exe",
       "path": ""
     },
     {
       "name": "Server",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm/refs/heads/main/server.txt",
+      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_24h/refs/heads/main/server.txt",
       "path": "Info\\"
     }
   ]
