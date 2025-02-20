@@ -1,11 +1,11 @@
 {
-  "version": "1.4",
-  "notification": "FIX -1[1]",
+  "version": "1.5",
+  "notification": "FIX -1[2]",
   "update": [
     {
       "name": "GAME",
       "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_24h/refs/heads/main/Assembly-CSharp.dll",
-      "path": "CSMM_NRO_GAME_Data\\Managed\\"
+      "path": "CSMM_NRO_GAME_24H_Data\\Managed\\"
     },
     {
       "name": "QLTK",
