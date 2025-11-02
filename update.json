@@ -1,6 +1,6 @@
 {
-  "version": "1.8",
-  "notification": "Change zone 300s.",
+  "version": "1.9",
+  "notification": "Update xmap.",
   "update": [
     {
       "name": "GAME",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
