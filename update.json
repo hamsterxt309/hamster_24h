@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "notification": "Update xmap.",
+  "version": "2.0",
+  "notification": "Fix xử lý giao dịch[2].",
   "update": [
     {
       "name": "GAME",
@@ -19,4 +19,5 @@
     }
   ]
 }
+
 
