@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "notification": "Fix xử lý giao dịch[2].",
+  "version": "2.1",
+  "notification": "Update phiên bản.",
   "update": [
     {
       "name": "GAME",
@@ -19,5 +19,6 @@
     }
   ]
 }
+
 
 
