@@ -1,6 +1,6 @@
 {
-  "version": "2.1",
-  "notification": "Update phiên bản.",
+  "version": "2.2",
+  "notification": "Update QLTK.",
   "update": [
     {
       "name": "GAME",
@@ -19,6 +19,7 @@
     }
   ]
 }
+
 
 
 
