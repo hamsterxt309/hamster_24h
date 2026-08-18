@@ -1,6 +1,6 @@
 {
-  "version": "2.4",
-  "notification": "Update QLTK.",
+  "version": "2.5",
+  "notification": "Fix cược",
   "update": [
     {
       "name": "GAME",
