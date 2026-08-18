@@ -8,8 +8,18 @@
       "path": "CSMM_NRO_GAME_24H_Data\\Managed\\"
     },
     {
+      "name": "Proxy",
+      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_24h/refs/heads/main/starksoft.aspen.dll",
+      "path": "CSMM_NRO_GAME_24H_Data\\Managed\\"
+    },
+    {
       "name": "QLTK",
       "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_24h/refs/heads/main/QLTK_CSMM.exe",
+      "path": ""
+    },
+    {
+      "name": "GAME 2",
+      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_24h/refs/heads/main/CSMM_NRO_GAME_24H.exe",
       "path": ""
     },
     {
